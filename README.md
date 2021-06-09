@@ -8,4 +8,4 @@ This repository contains small projects related to NLP. These projects were done
   
 - [Sentiment Analysis](https://github.com/arya46/NLP-Arsenal/tree/main/Neural%20Sentiment%20Analysis): This project is about using several machine learning classifiers, including Recurrent Neural Networks, to predict the sentiments in text.
 
-- [Machine Translation](https://github.com/arya46/NLP-Arsenal/tree/main/Neural%20Machine%Translation): This project is about using Neural Networks to perform the task of Machine Translation using a Seq2Seq model.
+- [Neural Machine Translation](https://github.com/arya46/NLP-Arsenal/tree/main/Neural%20Machine%20Translation): This project is about using Neural Networks to perform the task of Machine Translation using a Seq2Seq model.
